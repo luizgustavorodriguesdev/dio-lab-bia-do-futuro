@@ -1,0 +1,26 @@
+{
+"nome": "João Silva",
+"idade": 32,
+"profissao": "Analista de Sistemas",
+"renda_mensal": 7500.00,
+"perfil": "Moderado",
+"perfil_investidor": "Moderado",
+"objetivo_principal": "Construir uma carteira geradora de renda passiva mensal em Fundos Imobiliários",
+"meta_mensal": 500.00,
+"patrimonio_fii_atual": 18500.00,
+"reserva_emergencia_concluida": true,
+"aceita_risco": true,
+"horizonte_investimento": "Longo Prazo",
+"metas": [
+{
+"meta": "Atingir R$ 500/mês em rendimentos isentos de FIIs",
+"valor_patrimonio_alvo": 50000.00,
+"prazo": "2026-12"
+},
+{
+"meta": "Atingir R$ 2.000/mês em proventos para independência financeira",
+"valor_patrimonio_alvo": 200000.00,
+"prazo": "2030-12"
+}
+]
+}

@@ -1,0 +1,74 @@
+[
+{
+"ticker": "HGLG11",
+"nome": "CSHG Logística",
+"categoria": "fii_tijolo",
+"segmento": "Galpões Logísticos",
+"risco": "baixo",
+"indicado_para": "Perfil Conservador/Moderado focado em renda estável com galpões industriais de alta qualidade.",
+"descricao": "Um dos maiores FIIs do mercado, focado em galpões de alto padrão nos principais eixos logísticos do país."
+},
+{
+"ticker": "KNRI11",
+"nome": "Kinea Renda Imobiliária",
+"categoria": "fii_tijolo",
+"segmento": "Híbrido (Lajes e Logística)",
+"risco": "baixo",
+"indicado_para": "Perfil Conservador buscando diversificação patrimonial e resiliência em imóveis físicos.",
+"descricao": "Fundo híbrido consolidado com portfólio diversificado de edifícios corporativos e galpões logísticos."
+},
+{
+"ticker": "XPML11",
+"nome": "XP Malls",
+"categoria": "fii_tijolo",
+"segmento": "Shoppings",
+"risco": "medio",
+"indicado_para": "Perfil Moderado em busca de participação nos maiores shoppings do Brasil com ganho em datas comemorativas.",
+"descricao": "Fundo focado em participações em shoppings centers consolidados de médio e alto padrão."
+},
+{
+"ticker": "MXRF11",
+"nome": "Maxi Renda",
+"categoria": "fii_papel",
+"segmento": "CRIs / Dívida Imobiliária",
+"risco": "baixo_medio",
+"indicado_para": "Perfil Moderado que busca liquidez alta, preço de cota acessível (base R$ 10) e proventos mensais.",
+"descricao": "O maior FII da B3 em número de cotistas, focado no investimento em Certificados de Recebíveis Imobiliários (CRIs)."
+},
+{
+"ticker": "KNIP11",
+"nome": "Kinea Índices de Preços",
+"categoria": "fii_papel",
+"segmento": "CRIs (Atrelado ao IPCA)",
+"risco": "baixo_medio",
+"indicado_para": "Perfil Moderado que deseja proteção contra a inflação (IPCA + spread de crédito de alta qualidade).",
+"descricao": "Fundo de papel de alta liquidez com carteira composta predominantemente por CRIs corrigidos pelo IPCA."
+},
+{
+"ticker": "CPTS11",
+"nome": "Capitânia Securities II",
+"categoria": "fii_papel",
+"segmento": "CRIs (Atrelado ao CDI)",
+"risco": "medio",
+"indicado_para": "Perfil Moderado/Arrojado focado em se beneficiar de cenários de taxas de juros (SELIC/CDI) elevadas.",
+"descricao": "Fundo focado em CRIs High Grade e cotas de outros FIIs de crédito com gestão ativa."
+},
+{
+"ticker": "HFOF11",
+"nome": "Hedge TOP FOFII 3",
+"categoria": "fii_fof",
+"segmento": "Fundo de Fundos (FoF)",
+"risco": "medio",
+"indicado_para": "Iniciantes ou investidores que desejam delegar a gestão da carteira a um time especialista.",
+"descricao": "Fundo que compra cotas de outros FIIs, oferecendo uma carteira altamente diversificada de ativos em uma só cota."
+},
+{
+"ticker": "RZTR11",
+"nome": "Riza Terrax",
+"categoria": "fiagro",
+"segmento": "Terras Agrícolas",
+"risco": "medio_alto",
+"indicado_para": "Perfil Moderado/Arrojado buscando exposição ao agronegócio com proventos mensais altos.",
+"descricao": "Fiagro focado na compra e arrendamento de terras agrícolas produtivas no território nacional."
+}
+]

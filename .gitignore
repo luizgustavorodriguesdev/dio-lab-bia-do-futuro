@@ -1,0 +1,34 @@
+Guia de Configuração Local - Radar FII.md
+venv/
+STREAMING_CHUNK:Configuring Python bytecode and cache ignore rules...
+
+pycache/
+*.py[cod]
+*$py.class
+
+STREAMING_CHUNK:Configuring virtual environments ignore rules...
+
+venv/
+.venv/
+env/
+ENV/
+
+STREAMING_CHUNK:Configuring Streamlit and local config ignore rules...
+
+.streamlit/secrets.toml
+
+STREAMING_CHUNK:Configuring IDEs and editor temp files...
+
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+STREAMING_CHUNK:Configuring distribution and build directories...
+
+build/
+dist/
+*.egg-info/
